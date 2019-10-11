@@ -1,0 +1,10 @@
+package cn.yxffcode.groovytp.gen;
+
+$!imports
+
+public class TestGroovy {
+
+    public Object test() {
+        $expression
+    }
+}
